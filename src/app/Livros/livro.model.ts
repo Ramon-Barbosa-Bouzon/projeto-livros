@@ -4,5 +4,5 @@ export class Livro {
   titulo: string;
   autor: string;
   numeroPg: number;
-  id:number;
+  id: string;
 }
